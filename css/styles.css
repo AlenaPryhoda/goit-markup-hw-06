@@ -790,8 +790,8 @@ span {
     align-items: flex-end;
 }
 
-.subscribe-label {
-   
+.modal-form input {
+   width: 358px;
     margin-right: 12px;
     
 }
@@ -916,7 +916,7 @@ span {
     border-radius: 4px;
     background-color: transparent;
     margin-bottom: 10px;
-    padding-left: 12px;
+    
     cursor: pointer;
     transition: border-color var(--duration) var(--timing-function);
 }
