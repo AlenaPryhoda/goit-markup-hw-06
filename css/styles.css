@@ -793,7 +793,7 @@ span {
     align-items: flex-end;
 }
 
-.modal-form input {
+.modal-form ~ input {
    width: 358px;
     margin-right: 12px;
     
