@@ -718,6 +718,9 @@ span {
 .subscribe-icon {
     margin-left: 10px;
 }
+.subscribe-label {
+    margin-right: 12px;
+}
 
 .form-label {
     background-color: var(--background-hero-color);
